@@ -1,3 +1,4 @@
 ## Funcionalidade de Login
-Em desenvolvimento...
+Login implementado com autenticação simples.
+
 
