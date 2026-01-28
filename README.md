@@ -1,2 +1,4 @@
 ## Funcionalidade de Login
-Login em fase final de testes.
+Login implementado com autenticação simples.
+
+
