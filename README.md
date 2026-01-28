@@ -1,3 +1,2 @@
 ## Funcionalidade de Login
-Em desenvolvimento...
-
+Login em fase final de testes.
